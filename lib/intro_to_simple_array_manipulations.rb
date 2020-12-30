@@ -9,4 +9,4 @@ end
 def using_pop(array)
   array[-1].pop
 end
-using_pop
+using_pop(array)
